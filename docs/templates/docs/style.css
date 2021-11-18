@@ -1,0 +1,11 @@
+ <nav>
+      <ul class="cd-primary-nav">
+        <li><a href="index.html" class="animated_link">Главная</a></li>
+        <li>
+          <a href="admin-login.html" class="animated_link">Админ панель</a>
+        </li>
+        <li><a href="login.html" class="animated_link">Вход</a></li>
+        <li><a href="about.html" class="animated_link">О нас</a></li>
+        <li><a href="contacts.html" class="animated_link">Наши контакты</a></li>
+      </ul>
+    </nav>
